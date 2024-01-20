@@ -30,9 +30,9 @@ Additional Terms:
 
 3. Les personnes qui souhaitent partager le code doivent fournir un lien vers le référentiel GitHub d'origine.
 
-4. En cas de modifications apportées au code, l'auteur doit en être informé.
+4. En cas de modifications apportées au code, l'auteur doit en être informé et les modifications doivent être publiées.
 
-5. Les forks du code sont autorisés uniquement s'ils incluent des modifications substantielles aux scripts ou aux fichiers de configuration.
+5. Les forks du code sont autorisés uniquement s'ils incluent des modifications substantielles aux scripts ou aux fichiers de configuration. Ceci n'inclut pas la modification des playlists qui ne sont que le produit des scripts.
 
 6. Toute personne partageant ces scripts est tenue de citer l'auteur dans leur distribution.
 
